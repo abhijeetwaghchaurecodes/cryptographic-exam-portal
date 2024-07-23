@@ -1,0 +1,84 @@
+Now let's see, 3 cases--
+    -CURRENT PROBLEM
+    -WEB2 SOLUTION
+    -CRYPTOGRAPHIC + DECENTRALIZED SOLUTION
+
+
+[1] CURRENT PROBLEM
+    -PRE EXAM
+        1. Paper getting leaked
+
+        2. What if the DB where questions are stored is hacked. 
+
+
+
+    -DURING EXAM
+        1. OMR/answers being changed later on - Why OMRs?
+
+        2. Cheating - You cant do much here
+
+
+
+    -AFTER EXAM
+        1. Results aren’t given out immediately
+
+        2. People getting grace marks. This data not being public
+
+        3. Ranks/marks can be modified. 
+
+        No way to verify my rank/X number of people actually were ahead of me
+
+        4. Privacy issues because you can scrape the data.
+
+
+[2] WEB2 SOLUTION
+    -Pre exam
+        1. Paper getting leaked
+
+        2. What if the DB where questions are stored is hacked. 
+
+
+
+    -During exam
+        1. OMR/answers being changed later on
+
+        2. Cheating - You cant do much here
+
+
+
+    -After exam
+        1. Results aren’t given out immediately  [SOLVED here]
+
+        2. People getting grace marks. This data not being public
+
+        3. Ranks/marks can be modified. 
+
+        No way to verify my rank/X number of people actually were ahead of me
+
+        4. Privacy issues because you can scrape the data.   [SOLVED here]
+
+
+[3] CRYPTOGRAPHIC + DECENTRALIZED SOLUTION
+ 
+    -Pre exam
+        1. Paper getting leaked  [SOLVED here]
+        2. What if the DB where questions are stored is hacked.   [SOLVED here]
+
+
+
+    -During exam
+        1. OMR/answers being changed later on   [SOLVED here]
+        2. Cheating - You cant do much here
+
+
+
+    -After exam
+        1. Results aren’t given out immediately  [SOLVED here]
+
+        2. People getting grace marks. This data not being public  [SOLVED here]
+
+        3. Ranks/marks can be modified. [SOLVED here]
+
+        No way to verify my rank/X number of people actually were ahead of me  [SOLVED here]
+
+        4. Privacy issues because you can scrape the data.  [SOLVED here]
